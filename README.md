@@ -43,40 +43,44 @@
 
 ### 🏆 Project Showcase
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📰 AiNewsBuzz</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite" /><br>
-        <em>AI-Powered News Intelligence Platform</em>
-      </p>
-      <a href="https://github.com/katyayani1875/ainewsbuzz" target="_blank">
-        <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>🤝 DevSync</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,socketio" /><br>
-        <em>Real-Time Collaborative IDE</em>
-      </p>
-      <a href="https://github.com/katyayani1875/devsync" target="_blank">
-        <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>🚀 JobHunt</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" /><br>
-        <em>AI-Powered Job Portal</em>
-      </p>
-      <a href="https://github.com/Katyayani1875/job-hunt-monorepo.git" target="_blank">
-        <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>🚀 Click to view my featured projects...</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>📰 AiNewsBuzz</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite" /><br>
+          <em>AI-Powered News Intelligence Platform</em>
+        </p>
+        <a href="https://github.com/katyayani1875/ainewsbuzz" target="_blank">
+          <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3>🤝 DevSync</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=react,nodejs,express,socketio" /><br>
+          <em>Real-Time Collaborative IDE</em>
+        </p>
+        <a href="https://github.com/katyayani1875/devsync" target="_blank">
+          <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <h3>🎯 JobHunt</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" /><br>
+          <em>AI-Powered Job Portal</em>
+        </p>
+        <a href="https://github.com/Katyayani1875/job-hunt-monorepo.git" target="_blank">
+          <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 
