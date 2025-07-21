@@ -1,23 +1,10 @@
-<!--
-================================================================================================================================================================
-||                                                                                                                                                            ||
-||    THIS GITHUB PROFILE WAS ARCHITECTED BY A WORLD-CLASS EXPERT FOR PEAK PERFORMANCE AND UNFORGETTABLE IMPACT.                                                ||
-||    IT IS A FLAWLESS, 100% COPY-PASTE SOLUTION.                                                                                                             ||
-||                                                                                                                                                            ||
-================================================================================================================================================================
--->
-
 <div align="center">
 
-# Hi there, I'm Katyayani Mishra 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&color=58A6FF¢er=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Katyayani+Mishra;Full+Stack+Developer;MERN+Stack+Specialist;Cloud+%26+AI+Enthusiast" alt="Typing SVG" /></a>
 
-### *Full Stack Developer | Cloud & AI Enthusiast*
+### Architecting high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.
 
 </div>
-
-<p align="center">
-  <em>I architect high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.</em>
-</p>
 
 ---
 
@@ -88,27 +75,27 @@
 
 ---
 
-### ✨ Key Achievements
+### ✨ Key Achievements & Contributions
 
 <div align="center">
 
 | 🦈 **Pull Shark** | 🚀 **YOLO** |
 | :---: | :---: |
-| *Awarded for a strong commitment to collaborative development through multiple, meaningful pull requests.* | *Recognized for decisive action and a rapid development pace by confidently merging contributions.* |
+| *Awarded for creating and merging multiple pull requests, demonstrating a strong commitment to collaborative development.* | *Recognized for showcasing confidence and ownership by directly merging contributions, reflecting a rapid development pace.* |
 
 </div>
 
 ---
 
-### 📈 My GitHub Activity
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <em>A visual testament to my daily dedication to the craft of software engineering.</em>
+  <em>My contributions are a living testament to my daily dedication to the craft of software engineering.</em>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=katyayani1875&theme=dark-blue&background=00000000" alt="3D Contribution Graph">
-</p>
+<div align="center">
+  <img src="https://github.com/katyayani1875/katyayani1875/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</div>
 
 ---
 
@@ -129,4 +116,4 @@
   <a href="mailto:mishrakatyayani391@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</
+</p>
