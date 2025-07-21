@@ -1,11 +1,3 @@
-<!--
-================================================================================================================================================================
-||                                                                                                                                                            ||
-||    THIS GITHUB PROFILE WAS ARCHITECTED BY A WORLD-CLASS EXPERT FOR PEAK PERFORMANCE AND UNFORGETTABLE IMPACT.                                                ||
-||    IT IS A FLAWLESS, 100% COPY-PASTE SOLUTION.                                                                                                             ||
-||                                                                                                                                                            ||
-================================================================================================================================================================
--->
 
 <div align="center">
 
@@ -14,11 +6,6 @@
 ### Architecting high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.
 
 </div>
-
----
-
-### 🎯 My Core Philosophy
-> *“I believe in the power of clean, efficient code to not only solve problems but to create intuitive and seamless interactions between users and technology. Every line is an opportunity to build something lasting and impactful.”*
 
 ---
 
@@ -51,7 +38,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 AiNewsBuzz - AI News Intelligence Platform</h3>
+      <h3 align="center">📰 AiNewsBuzz - AI News Intelligence Platform</h3>
       <div align="center">
         <a href="https://github.com/katyayani1875/ainewsbuzz" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -89,14 +76,14 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Serverless Data-Processing Pipeline</h3>
+      <h3 align="center">⚡ Real-Time Analytics Pipeline</h3>
       <div align="center">
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge&logo=github" alt="In Progress"/>
         </a>
         <p>
           <br />
-          Currently architecting a serverless, event-driven architecture for real-time data processing using AWS Lambda, SQS, and a NoSQL backend.
+          Currently architecting a serverless, event-driven pipeline on AWS using Lambda and Kinesis for real-time data ingestion and analytics.
         </p>
       </div>
     </td>
@@ -105,13 +92,23 @@
 
 ---
 
-### 📊 My GitHub Stats & Trophies
+### 📊 My GitHub Stats, Activity & Achievements
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=katyayani1875&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="Katyayani's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyayani1875&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="48%"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=katyayani1875&theme=vision-friendly-dark&column=7" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <em>My contributions graph is a living testament to my daily dedication to the craft of software engineering.</em>
+</p>
+
+<div align="center">
+  <img src="https://github.com/katyayani1875/katyayani1875/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=katyayani1875&theme=vision-friendly-dark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
