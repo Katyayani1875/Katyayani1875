@@ -117,11 +117,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katyayani1875&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katyayani1875&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
   <img src="https://github.com/katyayani1875/katyayani1875/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </div>
 
