@@ -9,11 +9,15 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&color=58A6FF¢er=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Katyayani+Mishra;Full+Stack+Developer;MERN+Stack+Specialist;Cloud+%26+AI+Enthusiast" alt="Typing SVG" /></a>
+# Hi there, I'm Katyayani Mishra 👋
 
-### Architecting high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.
+### *Full Stack Developer | Cloud & AI Enthusiast*
 
 </div>
+
+<p align="center">
+  <em>I architect high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.</em>
+</p>
 
 ---
 
@@ -84,35 +88,26 @@
 
 ---
 
-### ✨ Key Achievements & Contributions
+### ✨ Key Achievements
 
 <div align="center">
 
 | 🦈 **Pull Shark** | 🚀 **YOLO** |
 | :---: | :---: |
-| *Awarded for creating and merging multiple pull requests, demonstrating a strong commitment to collaborative development.* | *Recognized for showcasing confidence and ownership by directly merging contributions, reflecting a rapid development pace.* |
+| *Awarded for a strong commitment to collaborative development through multiple, meaningful pull requests.* | *Recognized for decisive action and a rapid development pace by confidently merging contributions.* |
 
 </div>
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### 📈 My GitHub Activity
 
 <p align="center">
-  <em>My contributions are a living testament to my daily dedication to the craft of software engineering.</em>
+  <em>A visual testament to my daily dedication to the craft of software engineering.</em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katyayani1875&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="Katyayani's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyayani1875&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="48%"/>
-</p>
-
-<div align="center">
-  <img src="https://github.com/katyayani1875/katyayani1875/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=katyayani1875&theme=vision-friendly-dark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=katyayani1875&theme=dark-blue&background=00000000" alt="3D Contribution Graph">
 </p>
 
 ---
@@ -134,4 +129,4 @@
   <a href="mailto:mishrakatyayani391@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</
