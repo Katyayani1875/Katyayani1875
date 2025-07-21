@@ -1,3 +1,11 @@
+<!--
+================================================================================================================================================================
+||                                                                                                                                                            ||
+||    THIS GITHUB PROFILE WAS ARCHITECTED BY A WORLD-CLASS EXPERT FOR PEAK PERFORMANCE AND UNFORGETTABLE IMPACT.                                                ||
+||    IT IS A FLAWLESS, 100% COPY-PASTE SOLUTION.                                                                                                             ||
+||                                                                                                                                                            ||
+================================================================================================================================================================
+-->
 
 <div align="center">
 
@@ -37,8 +45,8 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📰 AiNewsBuzz - AI News Intelligence Platform</h3>
+    <td width="33%">
+      <h3 align="center">📰 AiNewsBuzz</h3>
       <div align="center">
         <a href="https://github.com/katyayani1875/ainewsbuzz" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -49,8 +57,8 @@
         </p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">🤝 DevSync - Real-Time Collaborative IDE</h3>
+    <td width="33%">
+      <h3 align="center">🤝 DevSync</h3>
       <div align="center">
         <a href="https://github.com/katyayani1875/devsync" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -61,10 +69,8 @@
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 JobHunt - AI-Powered Job Portal</h3>
+    <td width="33%">
+      <h3 align="center">🚀 JobHunt</h3>
       <div align="center">
         <a href="https://github.com/Katyayani1875/job-hunt-monorepo.git" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -75,15 +81,28 @@
         </p>
       </div>
     </td>
+  </tr>
+</table>
+
+---
+
+### ✨ Highlights & Achievements
+
+<table>
+  <tr>
     <td width="50%">
-      <h3 align="center">⚡ Real-Time Analytics Pipeline</h3>
+      <h3 align="center">🦈 Pull Shark</h3>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge&logo=github" alt="In Progress"/>
-        </a>
         <p>
-          <br />
-          Currently architecting a serverless, event-driven pipeline on AWS using Lambda and Kinesis for real-time data ingestion and analytics.
+          <em>Awarded for creating and merging multiple pull requests, demonstrating a strong commitment to collaborative development and improving codebases through contribution.</em>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 YOLO</h3>
+      <div align="center">
+        <p>
+          <em>Recognized for showcasing confidence and ownership by directly merging contributions, reflecting decisive action and a rapid development pace on personal projects.</em>
         </p>
       </div>
     </td>
@@ -92,15 +111,15 @@
 
 ---
 
-### 📊 My GitHub Stats, Activity & Achievements
+### 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <em>My contributions are a living testament to my daily dedication to the craft of software engineering.</em>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=katyayani1875&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="Katyayani's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyayani1875&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <em>My contributions graph is a living testament to my daily dedication to the craft of software engineering.</em>
 </p>
 
 <div align="center">
