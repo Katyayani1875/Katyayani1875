@@ -79,9 +79,17 @@
 
 <div align="center">
 
-| 🦈 **Pull Shark** | 🚀 **YOLO** |
-| :---: | :---: |
-| *Awarded for creating and merging multiple pull requests, demonstrating a strong commitment to collaborative development.* | *Recognized for showcasing confidence and ownership by directly merging contributions, reflecting a rapid development pace.* |
+<p align="center">
+  🦈 <b>Collaborative Contributor (Pull Shark)</b><br>
+  <i>Awarded for a strong commitment to team-based development through multiple, meaningful pull requests.</i>
+</p>
+
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 15px 100px;">
+
+<p align="center">
+  🚀 <b>Decisive Innovator (YOLO)</b><br>
+  <i>Recognized for showcasing confidence and ownership by directly merging contributions, reflecting a rapid development pace.</i>
+</p>
 
 </div>
 
