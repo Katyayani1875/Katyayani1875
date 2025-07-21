@@ -2,10 +2,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&color=58A6FF¢er=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Katyayani+Mishra;Full+Stack+Developer;MERN+Stack+Specialist;Cloud+%26+AI+Enthusiast" alt="Typing SVG" /></a>
 
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=katyayani1875&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
-
 ### Architecting high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.
+
+<!-- Profile View Counter - Premium Style -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=katyayani1875&label=PROFILE+VIEWS&color=0056ff&style=flat-square" alt="Profile views" />
+  <span style="display: inline-block; width: 20px;"></span>
+  <img src="https://img.shields.io/github/followers/katyayani1875?label=FOLLOWERS&style=flat-square&color=0056ff" alt="GitHub followers" />
+</div>
 
 </div>
 
@@ -111,6 +115,11 @@
 <p align="center">
   <em>My contributions are a living testament to my daily dedication to the craft of software engineering.</em>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=katyayani1875&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katyayani1875&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+</div>
 
 <div align="center">
   <img src="https://github.com/katyayani1875/katyayani1875/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
