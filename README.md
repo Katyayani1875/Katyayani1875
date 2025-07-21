@@ -2,6 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&color=58A6FF¢er=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Katyayani+Mishra;Full+Stack+Developer;MERN+Stack+Specialist;Cloud+%26+AI+Enthusiast" alt="Typing SVG" /></a>
 
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=katyayani1875&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
+
 ### Architecting high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.
 
 </div>
@@ -77,25 +80,29 @@
 
 ### ✨ Key Achievements & Contributions
 
-<table>
-  <tr>
-    <td align="center">
-      <h3 align="center">🦈 Collaborative Contributor (Pull Shark)</h3>
-      <em>Awarded for a strong commitment to team-based development through multiple, meaningful pull requests.</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <hr style="border: none; height: 1px; background-color: #30363d;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3 align="center">🚀 Decisive Innovator (YOLO)</h3>
-      <em>Recognized for showcasing confidence and ownership by directly merging contributions, reflecting a rapid development pace.</em>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>🏅 Click to view my key achievements...</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td align="center">
+        <h3 align="center">🦈 Collaborative Contributor (Pull Shark)</h3>
+        <em>Awarded for a strong commitment to team-based development through multiple, meaningful pull requests.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <hr style="border: none; height: 1px; background-color: #30363d;">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3 align="center">🚀 Decisive Innovator (YOLO)</h3>
+        <em>Recognized for showcasing confidence and ownership by directly merging contributions, reflecting a rapid development pace.</em>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 
@@ -116,8 +123,7 @@
 <p align="center">
   <em>I'm always open to collaborating on exciting projects or discussing the future of technology. Feel free to reach out!</em>
   <br><br>
-  <!-- NOTE: If you have a custom portfolio website, replace 'https://github.com/katyayani1875' with your URL -->
-  <a href="https://github.com/katyayani1875" target="_blank">
+  <a href="https://katyayani-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
    
