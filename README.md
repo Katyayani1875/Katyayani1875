@@ -41,83 +41,39 @@
 
 ---
 
-### 🏆 My Project Showcase
+### 🏆 Project Showcase
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📰 AiNewsBuzz</h3>
-      <div align="center">
-        <a href="https://github.com/katyayani1875/ainewsbuzz" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github" alt="View Repository"/>
-        </a>
-        <p>
-          <br />
-          Engineered an AI news platform using the MERN stack and Gemini API. Delivers automated summarization and achieves 95% accuracy in fake news detection.
-        </p>
-        <details>
-          <summary><b>🛠️ View Tech Stack</b></summary>
-          <p align="center">
-            <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite" />
-          </p>
-        </details>
-      </div>
+    <td align="center" width="33%">
+      <h3>📰 AiNewsBuzz</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite" /><br>
+        <em>AI-Powered News Intelligence Platform</em>
+      </p>
+      <a href="https://github.com/katyayani1875/ainewsbuzz" target="_blank">
+        <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">🤝 DevSync</h3>
-      <div align="center">
-        <a href="https://github.com/katyayani1875/devsync" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github" alt="View Repository"/>
-        </a>
-        <p>
-          <br />
-          Architected a real-time collaborative IDE with a low-latency Socket.IO backend. Enables sub-300ms code synchronization for seamless remote pair programming.
-        </p>
-        <details>
-          <summary><b>🛠️ View Tech Stack</b></summary>
-          <p align="center">
-            <img src="https://skillicons.dev/icons?i=react,nodejs,express,socketio" />
-          </p>
-        </details>
-      </div>
+    <td align="center" width="33%">
+      <h3>🤝 DevSync</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,socketio" /><br>
+        <em>Real-Time Collaborative IDE</em>
+      </p>
+      <a href="https://github.com/katyayani1875/devsync" target="_blank">
+        <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 JobHunt</h3>
-      <div align="center">
-        <a href="https://github.com/Katyayani1875/job-hunt-monorepo.git" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github" alt="View Repository"/>
-        </a>
-        <p>
-          <br />
-          Developed a full-stack job portal with AI-driven resume analysis and secure JWT authentication. Improves job recommendation relevance by 50%.
-        </p>
-        <details>
-          <summary><b>🛠️ View Tech Stack</b></summary>
-          <p align="center">
-            <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-          </p>
-        </details>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💡 My Next Innovation</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Architecting-green?style=for-the-badge&logo=github" alt="In Progress"/>
-        </a>
-        <p>
-          <br />
-          Currently designing a new solution focused on a high-impact area like Serverless Computing or Advanced AI applications. Stay tuned for the reveal!
-        </p>
-        <details>
-          <summary><b>🛠️ View Tech Stack</b></summary>
-          <p align="center">
-            <img src="https://skillicons.dev/icons?i=aws,ts,docker" />
-          </p>
-        </details>
-      </div>
+    <td align="center" width="33%">
+      <h3>🚀 JobHunt</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" /><br>
+        <em>AI-Powered Job Portal</em>
+      </p>
+      <a href="https://github.com/Katyayani1875/job-hunt-monorepo.git" target="_blank">
+        <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="View Repository"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -125,19 +81,14 @@
 ---
 
 ### ✨ Key Achievements & Contributions
-<table>
-<tr>
-<td>
+
 <div align="center">
-<h3 align="center"><strong>🦈 Pull Shark</strong></h3>
-<em>Awarded for creating and merging multiple pull requests, demonstrating a strong commitment to collaborative development and improving codebases through contribution.</em>
-<hr>
-<h3 align="center"><strong>🚀 YOLO</strong></h3>
-<em>Recognized for showcasing confidence and ownership by directly merging contributions, reflecting decisive action and a rapid development pace on personal projects.</em>
+
+| 🦈 **Pull Shark** | 🚀 **YOLO** |
+| :---: | :---: |
+| *Awarded for creating and merging multiple pull requests, demonstrating a strong commitment to collaborative development.* | *Recognized for showcasing confidence and ownership by directly merging contributions, reflecting a rapid development pace.* |
+
 </div>
-</td>
-</tr>
-</table>
 
 ---
 
